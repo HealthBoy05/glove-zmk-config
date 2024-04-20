@@ -143,12 +143,12 @@
 
         symbol_layer {
             bindings = <
-&none  &none              &none       &none        &none                                                                                     &none                 &none                  &none          &none             &none
-&none  &none              &none       &none        &none             &none                                                            &none  &none                 &none                  &none          &none             &none
-&none  &kp BACKSLASH      &kp AMPS    &kp STAR     &kp SINGLE_QUOTE  &kp TILDE                                                        &none  &kp LBKT              &kp RBKT               &kp UNDER      &kp EQUAL         &none
-&none  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp PERCENT  &kp CARET         &kp PIPE                                                         &none  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS      &kp PLUS          &none
-&none  &none              &kp EXCL    &kp AT       &kp POUND         &kp GRAVE  &kp BACKSPACE  &none  &none    &none  &none   &none   &none  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LESS_THAN  &kp GREATER_THAN  &none
-&none  &none              &none       &none        &none                        &none          &none  &none    &none  &trans  &trans         &none                 &none                  &none          &none             &none
+&trans  &trans             &trans      &trans       &trans                                                                                        &trans                &trans                 &trans         &trans            &trans
+&trans  &trans             &trans      &trans       &trans            &trans                                                              &trans  &trans                &trans                 &trans         &trans            &trans
+&trans  &kp BACKSLASH      &kp AMPS    &kp STAR     &kp SINGLE_QUOTE  &kp TILDE                                                           &trans  &kp LBKT              &kp RBKT               &kp UNDER      &kp EQUAL         &trans
+&trans  &kp DOUBLE_QUOTES  &kp DOLLAR  &kp PERCENT  &kp CARET         &kp PIPE                                                            &trans  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp MINUS      &kp PLUS          &trans
+&trans  &trans             &kp EXCL    &kp AT       &kp POUND         &kp GRAVE  &kp BACKSPACE  &trans  &trans    &trans  &trans  &trans  &trans  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp LESS_THAN  &kp GREATER_THAN  &trans
+&trans  &trans             &trans      &trans       &trans                       &trans         &trans  &trans    &trans  &trans  &trans          &trans                &trans                 &trans         &trans            &trans
             >;
         };
     };

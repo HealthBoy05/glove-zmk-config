@@ -84,7 +84,7 @@
 &trans    &trans      &trans    &trans     &trans   &trans                                                                                  &trans  &trans                     &trans      &trans         &trans    &trans
 &kp TAB   &kp Q       &kp W     &kp F      &kp P    &kp B                                                                                   &kp J   &kp L                      &kp U       &kp Y          &kp SEMI  &trans
 &kp ESC   &kp A       &kp R     &kp S      &mo 1    &kp G                                                                                   &kp M   &key_key_timed LEFT_GUI N  &kp E       &kp I          &kp O     &trans
-&kp LALT  &kp X       &kp C     &kp D      &kp V    &kp Z   &kp LEFT_CONTROL  &mo 5  &mo 5               &trans  &trans     &kp LEFT_SHIFT  &kp K   &kp H                      &kp COMMA   &kp DOT        &kp FSLH  &kp RALT
+&kp LALT  &kp X       &kp C     &kp D      &kp V    &kp Z   &kp LEFT_CONTROL  &mo 4  &mo 5               &trans  &trans     &kp LEFT_SHIFT  &kp K   &kp H                      &kp COMMA   &kp DOT        &kp FSLH  &kp RALT
 &kp LGUI  &kp DELETE  &kp BSPC  &kp SPACE  &kp RET          &mo 2             &mo 3  &kt LEFT_CONTROL    &trans  &kp ENTER  &mo 3                   &trans                     &kp DELETE  &kp BACKSPACE  &trans    &trans
             >;
         };
